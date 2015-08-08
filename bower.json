@@ -1,0 +1,19 @@
+{
+  "name": "jsbn",
+  "version": "1.4.0",
+  "homepage": "git://github.com/hoangductho/jsbn.git",
+  "description": "RSA and ECC in JavaScript of Stanford's studen Tom Wu",
+  "keywords": [
+    "jsbn",
+    "javascript",
+    "security",
+    "js",
+    "rsa",
+    "js",
+    "ecc"
+  ],
+  "authors": [
+    "Tom Wu"
+  ],
+  "license": "MIT"
+}
